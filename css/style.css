@@ -1,0 +1,59 @@
+/* styles.css */
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #f8f9fa; /* Color de fondo claro */
+  }
+  
+  .navbar-brand,
+  .nav-link {
+    color: #795548 !important; /* Texto café */
+  }
+  
+  .nav-link:hover {
+    color: #5d4037 !important; /* Texto café oscuro al pasar el ratón */
+  }
+  
+  /* Estilos para el cuerpo de la página */
+  body {
+    background-color: #fbf7f3; /* Color de fondo beige claro */
+    color: #5d4037; /* Texto café oscuro */
+  }
+  
+  /* Estilos para los encabezados */
+  h1,
+  h2 {
+    color: #8d6e63; /* Café medio para los encabezados */
+  }
+  
+  /* Estilos para las tarjetas de servicios */
+  .card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card img {
+    border-bottom: 5px solid #d7ccc8; /* Borde inferior café claro para las imágenes */
+  }
+  
+  .card-title {
+    color: #795548; /* Color café para los títulos de las tarjetas */
+  }
+  
+  /* Estilos para el formulario de contacto */
+  form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilos para el pie de página */
+  footer {
+    background-color: #d7ccc8; /* Color de fondo café claro */
+    color: #5d4037; /* Texto café oscuro */
+    padding: 10px 0;
+  }
+  
